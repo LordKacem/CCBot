@@ -20,7 +20,7 @@ var servers = {};
 
 bot.on('ready',() =>{
    console.log('This bot is online!');
-   bot.user.setActivity('With your mom', {type: "PLAYING"});
+   bot.user.setActivity('JartexNetwork', {type: "PLAYING"});
 
 })
 
@@ -61,6 +61,8 @@ bot.on('guildMemberAdd', member =>{
 bot.on('message', message=>{
 
     let args= message.content.substring(PREFIX.length).split(" ");
+    if (!message.content.startsWith(PREFIX)) return;
+
 
     switch(args[0]){
         case 'clan':
