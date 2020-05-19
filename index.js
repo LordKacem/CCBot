@@ -74,7 +74,7 @@ bot.on('message', message=>{
             .addFields(
                 { name: '**<:Leader:698355100518973470> Leaders»**', value: 'NotLoLo1818, LordKacem' },
 		        { name: '**<:CoLeader:698355103320637440> Co-Leaders»**', value: 'Yeah, ItchyDanger49, NotSansy, DrogonMC' },
-                { name: '**<:Member:698355094458204210> Members»**', value: '``_Hey__, dogtickles, Nirahz, JoltTheBolt, Pingging, BlueEnderFury, _IDounaa, FireBlqde, SummerBoi, LimitedElimz, _OtherGamer_, SadHacks``', inline: true },
+                { name: '**<:Member:698355094458204210> Members»**', value: '``_Hey__, dogtickles, Nirahz, JoltTheBolt, Pingging, BlueEnderFury, FireBlqde, SummerBoi, LimitedElimz, _OtherGamer_, SadHacks, Hakuante, SpookyMan06, chocz700, edikaa``', inline: true },
             )
             
             .setImage('https://cdn.discordapp.com/attachments/697939276759040041/698179449488670740/Cheaters_Clan_Logo_PNG.png')
