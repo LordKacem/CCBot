@@ -72,9 +72,9 @@ bot.on('message', message=>{
             .setDescription('The list of the Cheaters Clan members')
             .setThumbnail('https://cdn.discordapp.com/attachments/697939276759040041/698179816121171968/logo.png')
             .addFields(
-                { name: '**<:Leader:698355100518973470> Leaders»**', value: 'NotLoLo1818, LordKacem' },
-		        { name: '**<:CoLeader:698355103320637440> Co-Leaders»**', value: 'Yeah, ItchyDanger49, NotSansy, DrogonMC' },
-                { name: '**<:Member:698355094458204210> Members»**', value: '``_Hey__, dogtickles, Nirahz, JoltTheBolt, Pingging, BlueEnderFury, FireBlqde, SummerBoi, LimitedElimz, _OtherGamer_, SadHacks, Hakuante, SpookyMan06, chocz700, edikaa``', inline: true },
+                { name: '**<:Leader:698355100518973470> Leaders»**', value: '```NotLoLo1818, LordKacem```' },
+		        { name: '**<:CoLeader:698355103320637440> Co-Leaders»**', value: '```Yeah, ItchyDanger49, NotSansy, DrogonMC```' },
+                { name: '**<:Member:698355094458204210> Members»**', value: '```_Hey__, dogtickles, Nirahz, JoltTheBolt, Pingging, BlueEnderFury, FireBlqde, SummerBoi, LimitedElimz, _OtherGamer_, SadHacks, Hakuante, SpookyMan06, chocz700, edikaa```', inline: true },
             )
             
             .setImage('https://cdn.discordapp.com/attachments/697939276759040041/698179449488670740/Cheaters_Clan_Logo_PNG.png')
