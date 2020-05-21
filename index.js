@@ -68,7 +68,7 @@ bot.on('message', message=>{
         case 'clan':
             const embed = new Discord.MessageEmbed()
             .setColor('#0099ff')
-            .setTitle('Cheaters Clan Members')
+            .setTitle('<:Soldier:712857325282656348> | Cheaters Clan Members')
             .setDescription('The list of the Cheaters Clan members')
             .setThumbnail('https://cdn.discordapp.com/attachments/697939276759040041/698179816121171968/logo.png')
             .addFields(
